@@ -20,8 +20,9 @@
 
 ## 📫 How to reach me: ...
   * Email: aakash.chahal62@gmail.com
-  * Twitter: @AakashChahal17
-  * Instagram: @aakash_chahal17 
+  * Twitter: [@AakashChahal17](https://twitter.com/AakashChahal17)
+  * Instagram: [@aakash_chahal17](https://www.instagram.com/aakash_chahal17/)
+  * LinkedIn: [Aakash-Chahal](https://www.linkedin.com/in/aakash-chahal/)
 
 <!--
 **AakashChahal/AakashChahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
