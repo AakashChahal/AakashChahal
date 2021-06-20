@@ -20,8 +20,8 @@
 
 ## 📫 How to reach me: ...
   * Email: aakash.chahal62@gmail.com
-  * Twitter: [@AakashChahal17](https://twitter.com/AakashChahal17)
-  * Instagram: [@aakash_chahal17](https://www.instagram.com/aakash_chahal17/)
+  * Twitter: [@_aakashchahal](https://twitter.com/_aakashchahal)
+  * Instagram: [@aakashchahal_](https://www.instagram.com/aakashchahal_/)
   * LinkedIn: [Aakash-Chahal](https://www.linkedin.com/in/aakash-chahal/)
 
 <!--
