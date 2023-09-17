@@ -8,11 +8,11 @@
 
 <br>
  
- ## ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/aakashchahal">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashchahal&layout=compact&theme=dracula&langs_count=12" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aakashchahal&count_private=true&show_icons=true&theme=dracula" />
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aakashchahal&count_private=true&show_icons=true&theme=dracula" /> -->
   </a>
 </p>
 
